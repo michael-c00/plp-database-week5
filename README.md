@@ -20,6 +20,6 @@ This repository contains my solutions for the **Week 5 Database Assignment** in 
 
 ## 📂 Repository Structure
 ```text
-plp-database-week4/
+plp-database-week5/
 ├── answers.sql    # Complete SQL solutions for Week 5 Assignment
 └── README.md      # Project documentation and query breakdown
